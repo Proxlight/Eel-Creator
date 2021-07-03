@@ -4,7 +4,7 @@
 </p>
 <br>
 
-![Eel Creator](https://github.com/Proxlight/Eel-Creator/image.jpg?raw=true)
+
 
 ## 💡 Introduction
 
