@@ -4,6 +4,8 @@
 </p>
 <br>
 
+![Eel Creator](https://github.com/Proxlight/Eel-Creator/image.jpg?raw=true)
+
 ## 💡 Introduction
 
 Eel Creator is a tool that automatically creates eel application with few clicks.
